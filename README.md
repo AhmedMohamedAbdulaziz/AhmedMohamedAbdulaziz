@@ -1,18 +1,10 @@
 ## Hi there 👋
 # Welcome to Ahmed Mohamed Abdulaziz profile! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=🎓+طالب+في+أكاديمية+الشروق;👨‍💻+Full+Stack+.NET+Developer;💻+Software+Engineer" alt="Typing SVG" />
-</p>
+### Student At Al-Shrouk Academy
+### Software Engineer
+### Full Stack.net Developer
 
-<p align="center">
-  <a href="https://github.com/yourusername/20250424_122325.mp4" target="_blank">
-    <img src="https://img.youtube.com/vi/your_video_id/0.jpg" alt="Video Thumbnail" width="600"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/yourusername/20250424_122325.mp4" target="_blank">Watch my video!</a>
-</p>
 
 ![Coder gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 

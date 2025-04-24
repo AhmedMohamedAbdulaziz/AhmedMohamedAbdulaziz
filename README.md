@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Welcome to Ahmed Mohamed Abdulaziz  profile! 👋
 
-## 🧠 Software Engineer
+## 🧠 Full Stack .net developer
 
 ![Coder gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 

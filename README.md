@@ -1,4 +1,5 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW54dXBxcnF3c3l5czFhaWFlbjNtbDA2aXY5YTI3emY0OHdwbW16MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ovptPIlUNPLKsJaEYo/giphy.gif">
+
 
 <h3 align="center">
   Welcome to Ahmed Mohamed Abdulaziz profile!

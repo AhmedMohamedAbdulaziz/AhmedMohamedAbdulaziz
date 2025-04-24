@@ -1,8 +1,17 @@
 ## Hi there 👋
-# Welcome to Ahmed Mohamed Abdulaziz  profile! 👋
+# Welcome to Ahmed Mohamed Abdulaziz profile! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=🎓+طالب+في+أكاديمية+الشروق;👨‍💻+Full+Stack+.NET+Developer;💻+Software+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername/20250424_122325.mp4" target="_blank">
+    <img src="https://img.youtube.com/vi/your_video_id/0.jpg" alt="Video Thumbnail" width="600"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/yourusername/20250424_122325.mp4" target="_blank">Watch my video!</a>
 </p>
 
 ![Coder gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -30,6 +39,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011024564864)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-362838310/)
+
 <!--
 **AhmedMohamedAbdulaziz/AhmedMohamedAbdulaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,6 +51,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pron

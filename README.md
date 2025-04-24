@@ -24,9 +24,10 @@
 
 ---
 
-## 📫 Connect with Me:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+## 📫 Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011024564864)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-362838310/)
 <!--
 **AhmedMohamedAbdulaziz/AhmedMohamedAbdulaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

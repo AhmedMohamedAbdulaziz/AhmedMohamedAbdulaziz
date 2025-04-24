@@ -1,10 +1,9 @@
 ## Hi there 👋
 # Welcome to Ahmed Mohamed Abdulaziz  profile! 👋
 
-### 👨‍💻 Student At Al-Shrouk Academy  
-### 🧠 Full Stack .net developer
-### 💻 Software Engineer
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=🎓+طالب+في+أكاديمية+الشروق;👨‍💻+Full+Stack+.NET+Developer;💻+Software+Engineer" alt="Typing SVG" />
+</p>
 
 ![Coder gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
